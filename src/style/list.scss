@@ -1,0 +1,13 @@
+.my-list {
+  background-color: #f0f2f5;
+}
+.my-list-item {
+  height: 182px;
+}
+.at-list__item-container {
+  height: 100%;
+}
+.at-list::after {
+  border-top-width: 0;
+  border-bottom-width: 0;
+}
